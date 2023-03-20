@@ -1,6 +1,6 @@
 from http.server import BaseHTTPRequestHandler
 
-token='settings'
+token='test'
 
 class handler(BaseHTTPRequestHandler):
 
